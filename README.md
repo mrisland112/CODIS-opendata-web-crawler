@@ -10,7 +10,11 @@
 
 
 ## 目的
-- 用來取得中央氣象局觀測系統內觀測資料的爬蟲程式，由於網站原始資料為 HTML 格式，無法直接用來資料分析，所以利用程式中針對處理資料格式是 HTML 的方法取出標籤內資料，並進一步過濾清理，最後進行轉換成 Data Table
+- 用來取得中央氣象局觀測系統 https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp 內觀測資料的爬蟲程式，由於網站原始資料為 HTML 格式，無法直接用來資料分析，所以利用程式中針對處理資料格式是 HTML 的方法取出標籤內資料，並進一步過濾清理，最後進行轉換成 Data Table
+![image](https://github.com/mrisland112/CODIS-opendata-web-crawler/assets/28065019/e14d7232-1268-4443-9d84-10f8a0167ea1)
+![image](https://github.com/mrisland112/CODIS-opendata-web-crawler/assets/28065019/a2ca02a2-523f-471c-be2b-7bc72a59d4da)
+
+##
 
 
 ## 設立環境
